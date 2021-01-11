@@ -1,7 +1,6 @@
-* {
-  box-sizing: border-box;
-}
 #app {
+  box-sizing: border-box;
+
   width: 300px;
   padding: 40px;
   border: 15px solid black;
