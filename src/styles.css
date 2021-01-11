@@ -1,8 +1,10 @@
-#app {
+* {
   box-sizing: border-box;
-  width: 50%;
-  border: 5px solid black;
-  float: left;
+}
+#app {
+  width: 300px;
+  padding: 40px;
+  border: 15px solid black;
 }
 body {
   font-family: sans-serif;
