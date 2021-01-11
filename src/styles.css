@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+}
+#city {
+  color: orangered;
+}
+.container {
+  background-image: linear-gradient(
+    to top,
+    #fcc5e4 0%,
+    #fda34b 15%,
+    #ff7882 35%,
+    #c8699e 52%,
+    #7046aa 71%,
+    #0c1db8 87%,
+    #020f75 100%
+  );
+}
+button {
+  display: inline;
+}
+#degree-celsius {
+  color: red;
+}
+#degree-faranheit {
+  color: aqua;
+}
+#current-temperature {
+  color: white;
+  font-size: 64px;
+  line-height: 1;
+}
+.units {
+  position: relative;
+  top: -36px;
+  color: white;
+}
+
+#current {
+  background-color: olive;
+  border-color: olive;
+}
